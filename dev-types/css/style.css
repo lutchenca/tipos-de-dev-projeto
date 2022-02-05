@@ -109,8 +109,8 @@ img {
 /* sobre*/
 
 .sobre {
-  border-top: 2px solid #0081a7;
-  border-bottom: 2px solid #0081a7;
+  border-top: 8px solid #00afb9;
+  border-bottom: 8px solid #00afb9;
   max-width: 960px;
   margin: 0 auto;
   padding: 60px 0px;
@@ -244,7 +244,7 @@ img {
 
 .backend {
   max-width: 960px;
-  margin: 60px auto;
+  margin: auto;
   color: white;
   border-top: 10px solid #f07167;
 }
@@ -271,16 +271,40 @@ img {
   font-size: 2em;
 }
 
-/* infosec */
+/* devops */
 
-.infosec-bg {
+.devops-bg {
   background: #00afb9;
 }
 
-.infosec {
+.devops {
   max-width: 960px;
-  margin: 60px auto;
+  margin: auto;
 }
+
+.devops h1 {
+  font-size: 2em;
+  margin: 60px 10px 10px ;
+}
+
+.devops-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.devops-item {
+  min-width: 260px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+.devops-item .photo {
+  margin: 60px 0px 60px 0px;
+}
+
 /* mundinho ti */
 
 .mundinho-ti {
