@@ -28,7 +28,7 @@ O usuário deve ser apto a:
 
 ### Screenshot
 
-[Over view](https://imgur.com/jMdBO41)
+![Over view](https://i.imgur.com/jMdBO41.png)
 
 
 ### Links
@@ -43,7 +43,6 @@ O usuário deve ser apto a:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
 
 ### O que eu aprendi
 
@@ -65,8 +64,8 @@ Todas as imagens utilizadas aqui foram retiradas do site [Unsplash](https://unsp
 
 
 Os textos foram pegos aleatoriamente de fontes diversas, seguem:
-(frontend)[https://mentorama.com.br/blog/desenvolvedor-front-end-o-que-e-o-que-faz-como-se-tornar-um/]
-(backend)[https://programadoresbrasil.com.br/2021/05/desenvolvedor-backend-o-que-faz/?amp]
+[frontend](https://mentorama.com.br/blog/desenvolvedor-front-end-o-que-e-o-que-faz-como-se-tornar-um/)
+[backend](https://programadoresbrasil.com.br/2021/05/desenvolvedor-backend-o-que-faz/?amp)
 
 ## Author
 
