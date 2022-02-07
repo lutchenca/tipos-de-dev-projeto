@@ -53,14 +53,14 @@ O intuito é futuramente aprimorar o projeto com informações sobre todas as á
 
 ### Referências e Direitos Autorais
 
-Todas as imagens utilizadas aqui foram retiradas do site [Unsplash](https://unsplash.com/) e segue todos os autores:
+Todas as imagens utilizadas aqui foram retiradas do site [Unsplash](https://unsplash.com/). Segue todos os autores:
 1- Caneca e teclado: Photo by [Nubelson Fernandes](https://unsplash.com/s/photos/developer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText").
-2 - Homem escrevendo postit: Photo by Photo by [Nirmal Rajendharkumar](https://unsplash.com/s/photos/designer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText")
+2 - Homem escrevendo postit: Photo by [Nirmal Rajendharkumar](https://unsplash.com/s/photos/designer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText")
 3 - Mulher ruiva mexendo no computador: Photo by [ThisisEngineering RAEng](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-4 - shorthair women Photo by [Kelly Sikkema](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+4 - Mulher de cabelo curto Photo by [Kelly Sikkema](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-5 - black guy - Photo by [Nubelson Fernandes](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+5 - Homem de fone Photo by [Nubelson Fernandes](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 
 Os textos foram pegos aleatoriamente de fontes diversas, seguem:
