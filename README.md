@@ -33,7 +33,7 @@ O usuário deve ser apto a:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://tipos-de-dev.vercel.app/)
+- Live Site URL: [click here!](https://tipos-de-dev.vercel.app/)
 
 ## My process
 
